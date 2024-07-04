@@ -6,7 +6,7 @@ Data Scientist с опытом работы в обработке и анали�
 
 ### Технологии и навыки:
 - **Языки программирования**: Python, SQL
-- **Библиотеки и фреймворки**: Pandas, NumPy, Scikit-learn,Scipy, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn
+- **Библиотеки и фреймворки**: Pandas, NumPy, Scikit-learn,Scipy, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, Scipy
 - **Инструменты**: Jupyter Notebook, Git, Google Colab, PostgreSQL
 
 ### Опыт работы:
